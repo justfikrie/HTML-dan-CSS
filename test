@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Articles</title>
+  <style>
+    body {
+      margin: 5px;
+    }
+    /* Write your CSS solution here (do not edit the surrounding HTML) */
+  </style>
+</head>
+<body>
+    
+    <div style="float: left; max-width: 50px; padding: 10px; background-color: red;"> 
+        <article>First</article>  
+    </div>  
+    <div style="float: left; padding: 10px; max-width: 50px; background-color:yellow"> 
+        <article>Second</article> 
+    </div>
+    <br>
+    <br>
+    <br>
+    <div style="float: left; max-width: 50px; padding: 10px; background-color: blue;"> 
+        <article>Third</article> 
+    </div>
+    <div style="float: left; padding: 10px; max-width: 50px; background-color: #82CAFA;"> 
+        <article>Fourth</article>
+    </div>
+    
+</body>
+</html>
